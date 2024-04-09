@@ -13,7 +13,7 @@ Raw script: https://raw.githubusercontent.com/Sjatar/YTData2Streamer.bot/main/us
 To download it, download violent monkey and go into settings. Press the add button and new.
 ![image](https://github.com/Sjatar/YTData2Streamer.bot/assets/56020444/b20cf089-1d2d-4d83-abee-0f4d9955ae0f)
 
-Copy the code above and paste it in! Don't be scared, but we need to edit two things!
+Copy the raw script above and paste it in! Don't be scared, but we need to edit two things!
 
 --------------------------------------------------------------------------------
 
