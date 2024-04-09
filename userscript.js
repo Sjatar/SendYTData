@@ -80,8 +80,8 @@ function onWebSocketOpen(event)
           {
             "request": "DoAction",
             "action": {
-              "id": "7090ead5-d1ec-48fa-958a-e99d7cc978ae",
-							"name": "YoutubePlayback"
+        	"id": "7090ead5-d1ec-48fa-958a-e99d7cc978ae",
+		"name": "YoutubePlayback"
             },
             "args":{
               "YTtitle": document.getElementById("movie_player").getVideoData().title,
